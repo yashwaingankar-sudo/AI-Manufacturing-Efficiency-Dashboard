@@ -9,7 +9,6 @@ AI-based Power BI dashboard analyzing manufacturing efficiency using sensor, pro
 
 ---
 
-## 📌 Overview
 ## 📊 Overview
 This project is an AI-based Power BI dashboard designed to analyze manufacturing efficiency using sensor, production, and network data. It helps identify key factors such as machine performance, defects, and operational delays.
 
