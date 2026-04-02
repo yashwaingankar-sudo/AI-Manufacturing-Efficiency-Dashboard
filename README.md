@@ -37,3 +37,7 @@ This project is an AI-based Power BI dashboard designed to analyze manufacturing
 - Identified major causes of production delays
 - Highlighted defect patterns across machines
 - Improved decision-making through visual insights
+
+- ---
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yash-waingankar-67b954226/)
