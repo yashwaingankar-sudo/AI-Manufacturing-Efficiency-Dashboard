@@ -1,6 +1,15 @@
 # AI Manufacturing Efficiency Dashboard
 AI-based Power BI dashboard analyzing manufacturing efficiency using sensor, production, and network data to uncover key drivers like latency, defects, and machine conditions.
 
+>
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge)
+![Analysis](https://img.shields.io/badge/Type-Data%20Analysis-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+---
+
+## 📌 Overview
 ## 📊 Overview
 This project is an AI-based Power BI dashboard designed to analyze manufacturing efficiency using sensor, production, and network data. It helps identify key factors such as machine performance, defects, and operational delays.
 
