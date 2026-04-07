@@ -137,13 +137,26 @@ Models were compared based on:
 
 ---
 
+
 ## 🎥 Demo Video
 [▶ Watch Demo Video](https://drive.google.com/file/d/1ZVY5JaHAv_iYRHvQ-nvZGvt2AWRcJD9-/view?usp=drive_link)
 
+
 ---
 
-## 📊 Project Explanation (Detailed PPT)
-📥 [Download Full Project Explanation](AI%20Based%20Manufacturing%20Efficiency%20Dashboard%20Explanation.pptx)
+
+## 📊 Project Explanation
+This project analyzes manufacturing efficiency using AI-driven insights from production, sensor, and network data.
+
+### 🔍 Key Highlights
+- Identified impact of latency and defect rate on efficiency  
+- Built KPI-driven dashboard for real-time monitoring  
+- Enabled data-driven decision-making  
+
+📥 [Download Full PPT (GitHub)](AI%20Based%20Manufacturing%20Efficiency%20Dashboard%20Explanation.pptx) 
+
+🌐 [View PPT Online (Google Drive)](https://docs.google.com/presentation/d/11MnN9chv6HXjTREzFcDe_on04qeYV0TZ/edit?usp=drive_link&ouid=105173920197730604396&rtpof=true&sd=true)
+
 
 ---
 
